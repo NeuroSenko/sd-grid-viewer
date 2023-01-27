@@ -1,0 +1,16 @@
+{
+  "title": "Example",
+  "pathPattern": "http://127.0.0.1:1234/imgs/img ({{n}}).png",
+  "labelColumn": "Seed: {{label}}",
+  "labelRow": "Hyper steps: {{label}}",
+  "imageWidth": "512",
+  "imageHeight": "512",
+  "columns": [
+    "1393421640",
+    "3768118760",
+    "3768118763",
+    "3768118764",
+    "3768118765"
+  ],
+  "rows": ["0", "500", "1000"]
+}
